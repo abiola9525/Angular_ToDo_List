@@ -1,0 +1,16 @@
+h2 {
+    text-align: center;
+  }
+  
+  li {
+    list-style: none;
+  }
+  
+  .completed {
+    text-decoration: line-through;
+  }
+  
+  form {
+    margin-top: 20px;
+  }
+  
